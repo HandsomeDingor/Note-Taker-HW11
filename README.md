@@ -2,6 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# HEROKU LIVE LINK: https://notetakerhw11junjiewu.herokuapp.com/
+# GITHUB LINK: https://github.com/HandsomeDingor/Note-Taker-HW11
+
 ## Table of Contents
 
 * [Description](#description)

@@ -18,10 +18,12 @@
 * [Demo-output](#demo-output)
 
 ## [Description](#table-of-contents)
-Team-Profile-Generator
+N/A
 
 ## [Installation](#table-of-contents)
-vs code and node.js
+* vs code 
+* node.js
+* Express
 
 ## [Usage](#table-of-contents)
 N/A
@@ -74,11 +76,19 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 * npm
 * JavaScript
 * node.js
-* Jest
+* vs code 
+* Express
+* Html
+* CSS
 
 ## [Demo-Vide](#table-of-contents)
 ## The following video demonstrates the application functionality:
-
+![hw11](https://user-images.githubusercontent.com/94802639/156948349-887705e3-700a-4060-b991-dffcbb52389b.gif)
 
 ## [Demo-Output](#table-of-contents)
 ## The demo README on dist file will look like the below:
+<img width="1266" alt="Screen Shot 2022-03-06 at 7 09 02 PM" src="https://user-images.githubusercontent.com/94802639/156948410-879a43dd-d92e-4a90-a5fe-0af3c34142c4.png">
+<img width="1267" alt="Screen Shot 2022-03-06 at 7 09 19 PM" src="https://user-images.githubusercontent.com/94802639/156948417-746b70d5-2da3-4b5b-bf2c-ed594a27ca7e.png">
+<img width="909" alt="Screen Shot 2022-03-06 at 7 09 27 PM" src="https://user-images.githubusercontent.com/94802639/156948418-f7483712-0b84-4d3c-8d21-92fd2f4fa552.png">
+<img width="610" alt="Screen Shot 2022-03-06 at 7 09 45 PM" src="https://user-images.githubusercontent.com/94802639/156948421-0ddd3ab0-bb8b-49cf-827f-fb976c999dcf.png">
+
